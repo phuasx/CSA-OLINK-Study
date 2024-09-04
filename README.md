@@ -17,10 +17,10 @@ This repository contains the code used in the study titled **"Predicting Antipsy
 <sup>1</sup> North Region, Institute of Mental Health, Singapore  
 <sup>2</sup> Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore  
 <sup>3</sup> Singapore Immunology Network (SIgN), Agency for Science, Technology and Research (A*STAR), Singapore  
-<sup>34</sup> Center for Biomedical Informatics, Nanyang Technological University, Singapore  
-<sup>45</sup> School of Biological Sciences, Nanyang Technological University, Singapore  
-<sup>56</sup> Center of AI in Medicine, Nanyang Technological University, Singapore  
-<sup>67</sup> Division of Neurology, Department of Brain Sciences, Faculty of Medicine, Imperial College London
+<sup>4</sup> Center for Biomedical Informatics, Nanyang Technological University, Singapore  
+<sup>5</sup> School of Biological Sciences, Nanyang Technological University, Singapore  
+<sup>6</sup> Center of AI in Medicine, Nanyang Technological University, Singapore  
+<sup>7</sup> Division of Neurology, Department of Brain Sciences, Faculty of Medicine, Imperial College London
 
 ## Repository Structure
 

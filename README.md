@@ -44,7 +44,7 @@ Each script can be executed independently. Ensure that the input data (plasma le
 
 ## Availability
 
-The code is currently available upon request. Please contact the repository maintainer, **Ser-Xian Phua** (phuasx@gmail.com), for access.
+The data is currently available upon request. Please contact me **Ser-Xian Phua** (phuasx@gmail.com) or any of the authors for access. 
 
 ## Citation
 

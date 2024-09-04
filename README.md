@@ -40,11 +40,11 @@ This repository contains three main Python scripts:
 
 ## Usage
 
-Each script can be executed independently. Ensure that the input data (plasma levels of inflammatory markers) is correctly formatted as expected by the scripts. Modify the paths and any configuration settings as needed.
+Each script can be run independently (made to run in python). Ensure that the input data (plasma levels of inflammatory markers) is correctly formatted as expected by the scripts. Modify the paths and any configuration settings as needed. 
 
 ## Availability
 
-The code is currently available upon request. Please contact the repository maintainer, **Ser-Xian Phua** (phuasx@gmail.com), for access.
+The data is currently available upon request. Please contact me **Ser-Xian Phua** (phuasx@gmail.com) or any of the authors for access. 
 
 ## Citation
 
